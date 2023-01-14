@@ -8,5 +8,6 @@
 * 82% dos erros para inciantes programação
 
 ```js
+//erro: consolelog("Bem vindo aos Starter")
 console.log('Bem vindos ao Starter')
 ```
